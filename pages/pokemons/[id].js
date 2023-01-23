@@ -14,7 +14,7 @@
  * 									   	   de una página/s generada/s en el
  * 										   servidor (Backend), que se le pasarán
  * 										   al componente <Pokemon>. El cliente
- * 										   recibe un JavaScript.
+ * 										   recibe un JavaScript. 
 -------------------------------------------------------------------------- */
 
 import Link from 'next/link';
