@@ -1,9 +1,9 @@
 <h1 align="center">
-    Next.js Course - III [2023]
+    Next Course - III [2023]
 </h1>
 
 <h4 align="center">
-    Repository of Next.js course (part three), section of <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>.
+    Repository of Next course (part three), section of <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>.
 </h4>
 
 <p align="center">
@@ -24,14 +24,14 @@
     Summary
 </h2>
 <p>
-    This is a repository where I store all lessons that I take on Next.js course (part three), section of <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
+    This is a repository where I store all lessons that I take on Next course (part three), section of <a href="https://www.udemy.com/course/react-guia-definitiva-hooks-router-redux-next-proyectos/" target="_blank">React course<a> of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">Prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">Husky</a> to make my code be more 'prettier'.
 </p>
 
 <h2>
     Installation
 </h2>
 <p>
-    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Then run command <code>npm install</code> to install all packages, necessary for a Next.js app. Now, run command <code>npm run test</code>. Done, you are going to see tests results in your current console.
+    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor). Then run command <code>npm install</code> to install all packages, necessary for a Next app. Now, run command <code>npm run test</code>. Done, you are going to see tests results in your current console.
 </p>
 
 <h2>
@@ -81,10 +81,10 @@
             <a href="https://github.com/hozlucas28/React-Course-IX-2023" target="_blank">Repository of React - IX course</a>
         </li>
         <li>
-            <a href="https://github.com/hozlucas28/Next-Course-I-2023" target="_blank">Repository of Next.js - I course</a>
+            <a href="https://github.com/hozlucas28/Next-Course-I-2023" target="_blank">Repository of Next - I course</a>
         </li>
         <li>
-            <a href="https://github.com/hozlucas28/Next-Course-II-2023" target="_blank">Repository of Next.js - II course</a>
+            <a href="https://github.com/hozlucas28/Next-Course-II-2023" target="_blank">Repository of Next - II course</a>
         </li>
         <li>
             <a href="https://github.com/hozlucas28/JS-Complementary-Course-2023" target="_blank">Repository of JS complementary course</a>
