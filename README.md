@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/88015479/213896317-c6625c82-d817-47bc-8759-dd4cdaa24e78.png" width="275">
+    <img src="./.github/nextjs-logo.png" width="275">
 </p>
 
 <h2>
